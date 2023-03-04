@@ -11,7 +11,7 @@
 - Exibição de Modal e Toast com Chakra UI;
 - Entre outros.
 
-#Tecnologias usadas
+# Tecnologias usadas
 
 - Next.js
 - Chakra-ui
